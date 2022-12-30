@@ -7,7 +7,7 @@ This is a **guess the song** game, you can guess the song directly, or you can c
 Answer:First, create a new folder on your computer, name it as you like, then enter the song guessing game
 Select *Start Guessing*-*Select Song List*, then a **File Selection Box** will pop up, find the folder where you put the song and click **OK** on it
 
-## The . There is no .mp3 file in the /MusicList folder or there is no . /MusicList directory, please check how to do?
+## Appearances *There is no .mp3 file in the /MusicList folder or there is no . /MusicList directory, please check* how to do?
 Answer:First of all, find the directory where you installed the song-guessing game, create a new folder called MusicList, and put the .MP3 music in it.
 
 # ! Note!
