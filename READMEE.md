@@ -1,5 +1,5 @@
 # GuessTheSongGame
-[中文](https://github.com/JVFCN/Guess-the-song-game/blob/main/README.md)  [English](https://github.com/JVFCN/Guess-the-song-game/blob/main/READMEE)
+[中文](https://github.com/JVFCN/Guess-the-song-game/blob/main/README.md)  |  [English](https://github.com/JVFCN/Guess-the-song-game/blob/main/READMEE)
 
 This is a **guess the song** game, you can guess the song directly, or you can create your own song list
 
