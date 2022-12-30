@@ -3,6 +3,8 @@
 
 This is a **guess the song** game, you can guess the song directly, or you can create your own song list
 
+---
+
 ## How to create a song list?
 Answer:First, create a new folder on your computer, name it as you like, then enter the song guessing game
 Select *Start Guessing*-*Select Song List*, then a **File Selection Box** will pop up, find the folder where you put the song and click **OK** on it
